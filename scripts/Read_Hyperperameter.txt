@@ -1,0 +1,17 @@
+Hyperparameter Tuning Script (hyperparameter_tuning.R)
+Problem Statement:
+The goal of the hyperparameter tuning script is to optimize the parameters of the Random Forest model to achieve better predictive performance.
+
+Script Overview:
+
+Install and load necessary packages.
+Set the working directory and load the preprocessed data.
+Split the data into training and testing sets.
+Define a parameter grid for tuning.
+Train the model using cross-validation.
+Evaluate the tuned model.
+Save the tuned model for future use.
+
+
+Conclusion:
+The hyperparameter tuning script optimizes the Random Forest model's parameters, improving its predictive performance.

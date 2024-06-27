@@ -1,0 +1,19 @@
+Gradient Boosting Script (gradient_boosting.R)
+Problem Statement:
+The goal of the gradient boosting script is to build and evaluate an XGBoost model for predicting stroke occurrence.
+
+Script Overview:
+
+Install and load necessary packages.
+Set the working directory and load the engineered data.
+Split the data into training and testing sets.
+Convert the data to matrix format for XGBoost.
+Train the XGBoost model.
+Evaluate the model using confusion matrices and AUC-ROC curves.
+Save the trained model for future use.
+
+
+Conclusion:
+The gradient boosting script successfully builds and evaluates an XGBoost model, providing another powerful tool for predicting stroke occurrence. The model is saved for future use and deployment.
+
+With these scripts, the project covers data preprocessing, exploratory data analysis, feature engineering, model training, hyperparameter tuning, and gradient boosting, providing a comprehensive approach to building a robust stroke prediction model.

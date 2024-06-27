@@ -1,0 +1,14 @@
+Feature Engineering Script (feature_engineering.R)
+Problem Statement:
+The goal of the feature engineering script is to create new features that might improve the predictive performance of the machine learning models.
+
+Script Overview:
+
+Install and load necessary packages.
+Set the working directory and load the preprocessed data.
+Handle missing values.
+Create interaction terms between features.
+Save the engineered data for further analysis.
+
+Conclusion:
+The feature engineering script successfully creates interaction terms between features, potentially improving the predictive performance of the models.

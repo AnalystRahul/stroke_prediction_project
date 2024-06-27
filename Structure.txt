@@ -1,0 +1,33 @@
+stroke_prediction_project/
+├── data/
+│   ├── healthcare-dataset-stroke-data.csv
+│   ├── preprocessed_data.csv
+│   ├── engineered_data.csv
+├── scripts/
+│   ├── data_preprocessing.R
+│   ├── eda.R
+│   ├── model_training.R
+│   ├── hyperparameter_tuning.R
+│   ├── feature_engineering.R
+│   ├── gradient_boosting.R
+├── models/
+│   ├── model_logistic.rds
+│   ├── model_rf.rds
+│   ├── model_rf_tuned.rds
+│   ├── xgb_model.model
+├── visualizations/
+│   ├── age_distribution.png
+│   ├── bmi_distribution.png
+│   ├── stroke_by_gender.png
+│   ├── stroke_by_bmi_category.png
+│   ├── correlation_heatmap.png
+│   ├── logistic_roc_curve.png
+│   ├── random_forest_roc_curve.png
+├── documentation/
+│   ├── problem_statement.txt
+│   ├── data_description.txt
+│   ├── methodology.txt
+│   ├── results.txt
+│   ├── conclusions.txt
+│   ├── future_work.txt
+├── README.md

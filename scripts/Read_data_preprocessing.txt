@@ -1,0 +1,16 @@
+1. Data Preprocessing Script (data_preprocessing.R)
+Problem Statement:
+The goal of the data preprocessing script is to clean and prepare the healthcare dataset for stroke prediction. This involves handling missing values, ensuring proper data types, and creating new features as needed.
+
+Script Overview:
+
+Install and load necessary packages.
+Set the working directory and load the dataset.
+Check for and handle missing values using multiple imputation.
+Ensure numeric columns are treated as numeric.
+Convert relevant columns to factors.
+Create a BMI category variable.
+Save the preprocessed data for further analysis.
+
+Conclusion:
+The data preprocessing script successfully handles missing values, converts columns to appropriate data types, and prepares the data for further analysis.

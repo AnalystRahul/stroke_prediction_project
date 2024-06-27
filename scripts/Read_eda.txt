@@ -1,0 +1,13 @@
+Exploratory Data Analysis (EDA) Script (eda.R)
+Problem Statement:
+The goal of the EDA script is to explore the preprocessed data and visualize key aspects of the dataset to understand the distribution and relationships of different variables.
+
+Script Overview:
+
+Install and load necessary packages.
+Set the working directory and load the preprocessed data.
+Generate summary statistics and visualizations for key variables.
+Save the visualizations for reporting.
+
+Conclusion:
+The EDA script provides a comprehensive understanding of the dataset through summary statistics and visualizations, helping identify patterns and relationships between variables.
